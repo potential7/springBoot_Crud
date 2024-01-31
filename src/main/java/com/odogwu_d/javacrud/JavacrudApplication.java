@@ -10,4 +10,6 @@ public class JavacrudApplication {
         SpringApplication.run(JavacrudApplication.class, args);
     }
 
+    
+
 }
